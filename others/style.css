@@ -98,6 +98,10 @@ p {
 }
 
 @media(max-width: 800px) {
+       h1 {
+        font-size: 37px;
+    }
+
     .cont_2 {
         width: 100%;
         text-align: center;
